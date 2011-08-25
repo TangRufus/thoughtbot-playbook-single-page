@@ -4,6 +4,14 @@ This quick and dirty Ruby script pulls down the pages of Thoughtbot's Playbook
 from <http://playbook.thoughtbot.com/> and generates a single-page HTML version
 of the content.
 
+Why? Because single-page is
+
+* faster to navigate
+* easier to search 
+* easier to read offline
+* easier to print out to read and annotate on paper
+* more portable to other formats, like PDF or plain text (use elinks -dump)
+
 To run:
 
       ruby playbook.rb
