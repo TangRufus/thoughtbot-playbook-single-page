@@ -28,4 +28,4 @@ A huge thanks to THOUGHTBOT for sharing their accumulated wisdom.
 
 ## Contributors
 
-* Wyatt Greene <https://github.com/techiferous> added all the styling from Thoughtbot's original csss
+* Wyatt Greene <https://github.com/techiferous> pulled in the styling from Thoughtbot's original css
