@@ -28,7 +28,7 @@ big_html = toc.inject([toc_html]) do |memo, x|
   html = `curl -sL 'http://playbook.thoughtbot.com#{x[:href]}'`
   doc = Nokogiri::HTML(html)
  
-  memo << "<div><a name='#{x[:href].sub('/', '').gsub(/\W/, '_')}'></a></div>"
+  memo << "<hr/><div><a name='#{x[:href].sub('/', '').gsub(/\W/, '_')}'></a></div>"
   memo << doc.at('section#content').inner_html
   memo
 end
