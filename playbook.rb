@@ -45,6 +45,7 @@ html = <<END
 <!DOCTYPE html>
 <html>
 <head>
+<title>Thoughtbot Playbook</title>
 <meta charset="utf-8" />
 <link rel="stylesheet" href="reset.css">
 <link rel="stylesheet" href="style.css">
