@@ -26,3 +26,6 @@ Please fork and improve at will.
 
 A huge thanks to THOUGHTBOT for sharing their accumulated wisdom. 
 
+## Contributors
+
+* Wyatt Greene <https://github.com/techiferous> added all the styling
