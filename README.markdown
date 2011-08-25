@@ -10,7 +10,7 @@ Why? Because single-page is
 * easier to search 
 * easier to read offline
 * easier to print out to read and annotate on paper
-* more portable to other formats, like PDF or plain text (use elinks -dump)
+* easier to convert to other formats, like PDF or plain text (use elinks -dump)
 
 To run:
 
