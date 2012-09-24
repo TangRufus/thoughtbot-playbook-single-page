@@ -33,3 +33,5 @@ A huge thanks to THOUGHTBOT for sharing their accumulated wisdom.
 ## Contributors
 
 * Wyatt Greene <https://github.com/techiferous> pulled in the styling from Thoughtbot's original css
+
+* Tang Rufus <https://github.com/TangRufus> added support to pull the HTML5 verion of Thoughtbot's Playbook
