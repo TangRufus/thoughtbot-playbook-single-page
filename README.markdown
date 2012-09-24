@@ -18,6 +18,10 @@ To run:
 
 This will generate the playbook in file called `playbook.html`.
 
+In case of `cannot load such file -- nokogiri (LoadError)` problems try:
+		
+      gem install nokogirl
+
 You can see a version of the output here:
 
 <http://danielchoi.com/software/thoughtbot-playbook.html>
